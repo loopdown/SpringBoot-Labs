@@ -37,10 +37,11 @@
         </dependency>
 
         <!-- 引入 CAT 相关依赖 -->
+        <!-- https://mvnrepository.com/artifact/com.dianping.cat/cat-client -->
         <dependency>
             <groupId>com.dianping.cat</groupId>
             <artifactId>cat-client</artifactId>
-            <version>3.0.0</version>
+            <version>3.1.0</version>
         </dependency>
 
         <!-- 引入 CAT + Opentracing 的集成 -->
