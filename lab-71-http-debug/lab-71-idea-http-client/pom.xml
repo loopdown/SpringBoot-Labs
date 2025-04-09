@@ -26,7 +26,8 @@
         <dependency>
             <groupId>ch.qos.logback</groupId>
             <artifactId>logback-classic</artifactId>
-            <version>1.2.11</version> <!-- 版本号可根据需要调整 -->
+            <version>1.2.11</version>
+            <!-- 版本号可根据需要调整 -->
         </dependency>
 
     </dependencies>
